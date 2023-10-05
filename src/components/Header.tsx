@@ -13,11 +13,11 @@ export const Header: React.FC<React.PropsWithChildren> = ({ children }) => {
         </div>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <div className={styles.externalLinks}>
-            <a href="https://github.com/gamba-labs/gamba" target="_blank" rel="noreferrer">
-              Github
+            <a href="https://discord.com/e66aEuuVcF" target="_blank" rel="noreferrer">
+              discord
             </a>
-            <a href="https://explorer.gamba.so" target="_blank" rel="noreferrer">
-              Stats
+            <a href="https://twitter.com/solanagreen1" target="_blank" rel="noreferrer">
+              twitter
             </a>
           </div>
           {children}
