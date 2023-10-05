@@ -9,16 +9,16 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          What is this?
+          Solana Green
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
+          decentralized casino built on Gamba.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
             as="a"
             color="white"
-            href="https://gamba.so"
+            href="https://www.solanagreen.xyz"
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
