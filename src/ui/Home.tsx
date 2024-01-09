@@ -9,16 +9,16 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          Solana Green
+          Solana Racoon
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          decentralized casino built on Gamba.
+          decentralized casino.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
             as="a"
             color="white"
-            href="https://www.solanagreen.xyz"
+            href="https://www.solanaraccon.com"
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
